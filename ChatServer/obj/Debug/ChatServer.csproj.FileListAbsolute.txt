@@ -1,0 +1,28 @@
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\bin\Debug\ChatServer.exe
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\bin\Debug\ChatServer.pdb
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\obj\Debug\ChatServer.exe
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatServer\obj\Debug\ChatServer.pdb
+D:\C# Advanced ITI\Day6\ChatServer\bin\Debug\ChatServer.exe.config
+D:\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.exe
+D:\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.pdb
+D:\C# Advanced ITI\Day6\ChatServer\bin\Debug\ChatServer.exe
+D:\C# Advanced ITI\Day6\ChatServer\bin\Debug\ChatServer.pdb
+D:\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\backend\C# Advanced ITI\Day6\ChatServer\bin\Debug\ChatServer.exe.config
+D:\backend\C# Advanced ITI\Day6\ChatServer\bin\Debug\ChatServer.exe
+D:\backend\C# Advanced ITI\Day6\ChatServer\bin\Debug\ChatServer.pdb
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.exe
+D:\backend\C# Advanced ITI\Day6\ChatServer\obj\Debug\ChatServer.pdb

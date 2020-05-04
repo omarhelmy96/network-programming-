@@ -1,0 +1,27 @@
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\bin\Debug\ChatClient.exe
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\bin\Debug\ChatClient.pdb
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\obj\Debug\ChatClient.exe
+D:\Work\Instructor\Material\C#\Intake40\Sohag\Day6\ChatClient\obj\Debug\ChatClient.pdb
+D:\C# Advanced ITI\Day6\ChatClient\bin\Debug\ChatClient.exe.config
+D:\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.exe
+D:\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.pdb
+D:\C# Advanced ITI\Day6\ChatClient\bin\Debug\ChatClient.exe
+D:\C# Advanced ITI\Day6\ChatClient\bin\Debug\ChatClient.pdb
+D:\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\backend\C# Advanced ITI\Day6\ChatClient\bin\Debug\ChatClient.exe.config
+D:\backend\C# Advanced ITI\Day6\ChatClient\bin\Debug\ChatClient.exe
+D:\backend\C# Advanced ITI\Day6\ChatClient\bin\Debug\ChatClient.pdb
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.exe
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.pdb
+D:\backend\C# Advanced ITI\Day6\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
